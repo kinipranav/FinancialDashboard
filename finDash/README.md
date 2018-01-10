@@ -1,4 +1,5 @@
-# getData.r fetches all data.
+## Stock Dashboard with technical indicators
+#### getData.r fetches all data.
 
 **To use this project run:**
 ```
